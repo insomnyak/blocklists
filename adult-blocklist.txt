@@ -1,220 +1,221 @@
-adulttime.com
-advertapro.com
-avgle.com
-bang.com
-bangbros.com
-bangbrosnetwork.com
-beeg.com
-bigporn.com
-blacked.com
-bongacams.com
-brazzers.com
-brazzersnetwork.com
-busotservicios.com
-cam4.com
-camsoda.com
-camwhores.tv
-chaturbate.com
-coomer.party
-deeper.com
-digitalplayground.com
-eporner.com
-erome.com
-evilangel.com
-fancentro.com
-fansly.com
-femjoy.com
-flirt4free.com
-fr.pornhub.org
-gekso.com
-hanime.tv
-hclips.com
-hdzog.com
-hentaidude.com
-hentaifox.com
-hentaihaven.xxx
-hqporner.com
-ixxx.com
-javbus.com
-javhd.com
-javlibrary.com
-javmost.com
-kaldagan.com
-kantotbabe.com
-kantotin.com
-keezmovies.com
-livejasmin.com
-lootedpinay.com
-manyvids.com
-metart.com
-mofos.com
-myfreecams.com
-naughtyamerica.com
-nhentai.net
-nubilefilms.com
-nubiles.net
-onlyfans.com
-onlypinay.bz
-phncdn.com
-pinayflix.me
-pinayreel.tv
-porn.com
-porndig.com
-porngo.com
-pornhd.com
-pornhub.com
-pornhug.org
-pornkai.com
-pornone.com
-porntrex.com
-realitykings.com
-redgifs.com
-redtube.com
-rule34.xxx
-rule34video.com
-sex.com
-sexyhub.com
-spankbang.com
-spankwire.com
-stripchat.com
-teamskeet.com
-thumbzilla.com
-tnaflix.com
-tube8.com
-tushy.com
-twistys.com
-upornia.com
-vixen.com
-weform.site
-wicked.com
-xgroovy.com
-xhamster.com
-xhamster.desi
-xhamster.xxx
-xhamster1.desi
-xhcdn.com
-xnxx.com
-xnxx.health
-xnxx.tv
-xnxx2.vom
-xossipy.com
-xvideos-cdn.com
-xvideos.com
-xvideos2.com
-xxbp.tv
-xxnx.com.se
-youjizz.com
-youporn.com
-zoniqo.com
-javxxx.me
-javxxxporn.com
-www.adulttime.com
-www.pinayflix.me
-www.keezmovies.com
-www.javmost.com
-www.femjoy.com
-www.kantotbabe.com
-www.xossipy.com
-www.eporner.com
-www.xnxx.health
-www.xhamster.com
-www.flirt4free.com
-www.zoniqo.com
-www.livejasmin.com
-www.xnxx2.vom
-www.bigporn.com
-www.hqporner.com
-www.xvideos2.com
-www.nubilefilms.com
-www.xxnx.com.se
-www.xhamster.desi
-www.pornhub.com
-www.youporn.com
-www.porndig.com
-www.xhamster.xxx
-www.xhcdn.com
-www.beeg.com
-www.javxxxporn.com
-www.tushy.com
-www.camsoda.com
-www.hanime.tv
-www.xnxx.tv
-www.chaturbate.com
-www.pornkai.com
-www.xhamster1.desi
-www.nhentai.net
-www.pornhd.com
-www.xgroovy.com
-www.myfreecams.com
-www.realitykings.com
-www.ixxx.com
-www.thumbzilla.com
-www.manyvids.com
-www.pornhug.org
-www.rule34.xxx
-www.kaldagan.com
-www.wicked.com
-www.tnaflix.com
-www.fr.pornhub.org
-www.metart.com
-www.hentaifox.com
-www.hentaihaven.xxx
-www.avgle.com
-www.xxbp.tv
-www.javbus.com
-www.bangbrosnetwork.com
-www.busotservicios.com
-www.brazzersnetwork.com
-www.porn.com
-www.deeper.com
-www.weform.site
-www.brazzers.com
-www.fansly.com
-www.hentaidude.com
-www.gekso.com
-www.pinayreel.tv
-www.vixen.com
-www.advertapro.com
-www.javlibrary.com
-www.digitalplayground.com
-www.teamskeet.com
-www.tube8.com
-www.onlyfans.com
-www.phncdn.com
-www.spankbang.com
-www.lootedpinay.com
-www.xvideos-cdn.com
-www.youjizz.com
-www.evilangel.com
-www.pornone.com
-www.nubiles.net
-www.bongacams.com
-www.porntrex.com
-www.spankwire.com
-www.sexyhub.com
-www.fancentro.com
-www.sex.com
-www.twistys.com
-www.xvideos.com
-www.bangbros.com
-www.camwhores.tv
-www.kantotin.com
-www.porngo.com
-www.xnxx.com
-www.coomer.party
-www.cam4.com
-www.naughtyamerica.com
-www.rule34video.com
-www.bang.com
-www.stripchat.com
-www.hdzog.com
-www.mofos.com
-www.blacked.com
-www.onlypinay.bz
-www.javhd.com
-www.hclips.com
-www.upornia.com
-www.javxxx.me
-www.erome.com
-www.redgifs.com
-www.redtube.com
+# Host file contributed by Insomnyak
+0.0.0.0 adulttime.com
+0.0.0.0 pinayflix.me
+0.0.0.0 www.deeper.com
+0.0.0.0 www.xhamster.xxx
+0.0.0.0 www.pornkai.com
+0.0.0.0 www.naughtyamerica.com
+0.0.0.0 keezmovies.com
+0.0.0.0 www.weform.site
+0.0.0.0 javmost.com
+0.0.0.0 femjoy.com
+0.0.0.0 kantotbabe.com
+0.0.0.0 xossipy.com
+0.0.0.0 www.lootedpinay.com
+0.0.0.0 eporner.com
+0.0.0.0 xnxx.health
+0.0.0.0 www.xvideos.com
+0.0.0.0 xhamster.com
+0.0.0.0 flirt4free.com
+0.0.0.0 zoniqo.com
+0.0.0.0 livejasmin.com
+0.0.0.0 xnxx2.vom
+0.0.0.0 www.javbus.com
+0.0.0.0 bigporn.com
+0.0.0.0 www.xnxx.tv
+0.0.0.0 hqporner.com
+0.0.0.0 xvideos2.com
+0.0.0.0 www.pornhug.org
+0.0.0.0 www.wicked.com
+0.0.0.0 nubilefilms.com
+0.0.0.0 www.brazzersnetwork.com
+0.0.0.0 www.sex.com
+0.0.0.0 www.tube8.com
+0.0.0.0 www.fr.pornhub.org
+0.0.0.0 www.xvideos-cdn.com
+0.0.0.0 xxnx.com.se
+0.0.0.0 www.pinayflix.me
+0.0.0.0 www.xvideos2.com
+0.0.0.0 xhamster.desi
+0.0.0.0 www.digitalplayground.com
+0.0.0.0 pornhub.com
+0.0.0.0 youporn.com
+0.0.0.0 www.metart.com
+0.0.0.0 www.hentaidude.com
+0.0.0.0 www.xossipy.com
+0.0.0.0 www.bigporn.com
+0.0.0.0 porndig.com
+0.0.0.0 xhamster.xxx
+0.0.0.0 xhcdn.com
+0.0.0.0 beeg.com
+0.0.0.0 www.hclips.com
+0.0.0.0 javxxxporn.com
+0.0.0.0 tushy.com
+0.0.0.0 camsoda.com
+0.0.0.0 hanime.tv
+0.0.0.0 xnxx.tv
+0.0.0.0 chaturbate.com
+0.0.0.0 pornkai.com
+0.0.0.0 www.camwhores.tv
+0.0.0.0 www.xnxx2.vom
+0.0.0.0 xhamster1.desi
+0.0.0.0 www.nubilefilms.com
+0.0.0.0 nhentai.net
+0.0.0.0 pornhd.com
+0.0.0.0 www.bang.com
+0.0.0.0 xgroovy.com
+0.0.0.0 www.pornhub.com
+0.0.0.0 www.tnaflix.com
+0.0.0.0 myfreecams.com
+0.0.0.0 www.twistys.com
+0.0.0.0 www.porngo.com
+0.0.0.0 realitykings.com
+0.0.0.0 www.hdzog.com
+0.0.0.0 ixxx.com
+0.0.0.0 www.xgroovy.com
+0.0.0.0 www.advertapro.com
+0.0.0.0 www.porndig.com
+0.0.0.0 www.evilangel.com
+0.0.0.0 thumbzilla.com
+0.0.0.0 manyvids.com
+0.0.0.0 www.kantotin.com
+0.0.0.0 pornhug.org
+0.0.0.0 www.xhamster1.desi
+0.0.0.0 www.keezmovies.com
+0.0.0.0 www.xhamster.com
+0.0.0.0 rule34.xxx
+0.0.0.0 www.xhamster.desi
+0.0.0.0 www.pornhd.com
+0.0.0.0 kaldagan.com
+0.0.0.0 wicked.com
+0.0.0.0 www.xnxx.com
+0.0.0.0 tnaflix.com
+0.0.0.0 www.mofos.com
+0.0.0.0 www.zoniqo.com
+0.0.0.0 www.xhcdn.com
+0.0.0.0 fr.pornhub.org
+0.0.0.0 metart.com
+0.0.0.0 www.fancentro.com
+0.0.0.0 hentaifox.com
+0.0.0.0 hentaihaven.xxx
+0.0.0.0 www.femjoy.com
+0.0.0.0 avgle.com
+0.0.0.0 www.kantotbabe.com
+0.0.0.0 www.thumbzilla.com
+0.0.0.0 www.teamskeet.com
+0.0.0.0 www.xnxx.health
+0.0.0.0 xxbp.tv
+0.0.0.0 www.chaturbate.com
+0.0.0.0 javbus.com
+0.0.0.0 bangbrosnetwork.com
+0.0.0.0 www.pornone.com
+0.0.0.0 busotservicios.com
+0.0.0.0 www.xxbp.tv
+0.0.0.0 brazzersnetwork.com
+0.0.0.0 porn.com
+0.0.0.0 www.hanime.tv
+0.0.0.0 www.hqporner.com
+0.0.0.0 deeper.com
+0.0.0.0 www.brazzers.com
+0.0.0.0 www.redtube.com
+0.0.0.0 weform.site
+0.0.0.0 www.pinayreel.tv
+0.0.0.0 brazzers.com
+0.0.0.0 www.onlyfans.com
+0.0.0.0 www.myfreecams.com
+0.0.0.0 www.flirt4free.com
+0.0.0.0 www.fansly.com
+0.0.0.0 fansly.com
+0.0.0.0 www.hentaihaven.xxx
+0.0.0.0 www.cam4.com
+0.0.0.0 hentaidude.com
+0.0.0.0 gekso.com
+0.0.0.0 pinayreel.tv
+0.0.0.0 vixen.com
+0.0.0.0 advertapro.com
+0.0.0.0 www.adulttime.com
+0.0.0.0 www.camsoda.com
+0.0.0.0 javlibrary.com
+0.0.0.0 digitalplayground.com
+0.0.0.0 teamskeet.com
+0.0.0.0 tube8.com
+0.0.0.0 onlyfans.com
+0.0.0.0 phncdn.com
+0.0.0.0 spankbang.com
+0.0.0.0 www.eporner.com
+0.0.0.0 lootedpinay.com
+0.0.0.0 www.nhentai.net
+0.0.0.0 xvideos-cdn.com
+0.0.0.0 www.javlibrary.com
+0.0.0.0 youjizz.com
+0.0.0.0 www.youporn.com
+0.0.0.0 www.avgle.com
+0.0.0.0 evilangel.com
+0.0.0.0 www.gekso.com
+0.0.0.0 pornone.com
+0.0.0.0 www.vixen.com
+0.0.0.0 www.spankbang.com
+0.0.0.0 www.manyvids.com
+0.0.0.0 nubiles.net
+0.0.0.0 www.spankwire.com
+0.0.0.0 bongacams.com
+0.0.0.0 www.onlypinay.bz
+0.0.0.0 www.youjizz.com
+0.0.0.0 porntrex.com
+0.0.0.0 spankwire.com
+0.0.0.0 www.javxxx.me
+0.0.0.0 www.livejasmin.com
+0.0.0.0 sexyhub.com
+0.0.0.0 www.bongacams.com
+0.0.0.0 www.upornia.com
+0.0.0.0 fancentro.com
+0.0.0.0 sex.com
+0.0.0.0 twistys.com
+0.0.0.0 xvideos.com
+0.0.0.0 www.tushy.com
+0.0.0.0 bangbros.com
+0.0.0.0 camwhores.tv
+0.0.0.0 www.ixxx.com
+0.0.0.0 kantotin.com
+0.0.0.0 porngo.com
+0.0.0.0 xnxx.com
+0.0.0.0 coomer.party
+0.0.0.0 cam4.com
+0.0.0.0 naughtyamerica.com
+0.0.0.0 rule34video.com
+0.0.0.0 bang.com
+0.0.0.0 www.hentaifox.com
+0.0.0.0 www.porntrex.com
+0.0.0.0 stripchat.com
+0.0.0.0 hdzog.com
+0.0.0.0 www.phncdn.com
+0.0.0.0 www.coomer.party
+0.0.0.0 www.sexyhub.com
+0.0.0.0 mofos.com
+0.0.0.0 www.blacked.com
+0.0.0.0 www.busotservicios.com
+0.0.0.0 www.beeg.com
+0.0.0.0 blacked.com
+0.0.0.0 www.bangbrosnetwork.com
+0.0.0.0 www.nubiles.net
+0.0.0.0 www.javhd.com
+0.0.0.0 www.stripchat.com
+0.0.0.0 onlypinay.bz
+0.0.0.0 www.javmost.com
+0.0.0.0 www.redgifs.com
+0.0.0.0 javhd.com
+0.0.0.0 hclips.com
+0.0.0.0 www.rule34video.com
+0.0.0.0 upornia.com
+0.0.0.0 javxxx.me
+0.0.0.0 www.javxxxporn.com
+0.0.0.0 www.erome.com
+0.0.0.0 www.kaldagan.com
+0.0.0.0 www.realitykings.com
+0.0.0.0 www.rule34.xxx
+0.0.0.0 erome.com
+0.0.0.0 www.porn.com
+0.0.0.0 www.bangbros.com
+0.0.0.0 redgifs.com
+0.0.0.0 www.xxnx.com.se
+0.0.0.0 redtube.com
