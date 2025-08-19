@@ -226,3 +226,5 @@
 0.0.0.0 cdn77.org
 0.0.0.0 magsrv.com
 0.0.0.0 afcdn.net
+0.0.0.0 cdn.xxxcdn.com
+0.0.0.0 media.xxxcdn.net
