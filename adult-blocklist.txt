@@ -228,3 +228,7 @@
 0.0.0.0 afcdn.net
 0.0.0.0 cdn.xxxcdn.com
 0.0.0.0 media.xxxcdn.net
+0.0.0.0 v2.xszcdn5.com
+0.0.0.0 creative.homejavlive.com
+0.0.0.0 es.xsz-av.com
+0.0.0.0 unpkg.com
