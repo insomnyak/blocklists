@@ -232,3 +232,7 @@
 0.0.0.0 creative.homejavlive.com
 0.0.0.0 es.xsz-av.com
 0.0.0.0 unpkg.com
+0.0.0.0 cdn.dooav.xyz
+0.0.0.0 ssl.p.jwpcdn.com
+0.0.0.0 cdn.dooav.xyz
+0.0.0.0 hatari222.xyz
